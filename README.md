@@ -17,7 +17,7 @@
 
 ## About
 
-**Sam Tech Lab OSS** is an open source organization focused on systems administration, networking, security and DevOps.
+**Sam Tech Lab OSS** is an open source organization focused on Systems administration, Networking, Security and DevOps.
 
 The organization hosts projects, tools, configurations and documentation covering infrastructure, automation and open source technologies.
 
@@ -90,7 +90,7 @@ Please refer to the `LICENSE` file of the corresponding repository for the appli
 
 ## À propos
 
-**Sam Tech Lab OSS** est une organisation open source dédiée à l'administration des systèmes, aux réseaux, à la sécurité et au DevOps.
+**Sam Tech Lab OSS** est une organisation open source dédiée à l'administration des Systèmes, aux Réseaux, à la Sécurité et au DevOps.
 
 L'organisation regroupe des projets, outils, configurations et documentations autour de l'infrastructure, de l'automatisation et des technologies open source.
 
